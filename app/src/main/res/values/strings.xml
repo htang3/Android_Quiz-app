@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">How_Smart_Are_You?</string>
+    <string name="titleGame">How Smart Are You?</string>
+    <string name="NameEditText">Name</string>
+    <string name="hintText">Enter Your Name</string>
+    <string name="question1">1.Who did invent the first computer?</string>
+    <string name="enterAnswer">Enter your answer here.</string>
+    <string name="question2">2.Bill Gates is the founder of Facebook, true of false?</string>
+    <string name="radioTextYes">True</string>
+    <string name="radioTextNo">False</string>
+    <string name="question3">3.What is mobile operating system developed by Google?</string>
+    <string name="question4">4.What view group in Android can have children\'s view related to parent\'s view? </string>
+    <string name="checkBox">I\'m done</string>
+    <string name="score">Total score(s):</string>
+    <string name="submitButton">Submit</string>
+    <string name="Answer1">Charles Babbage</string>
+    <!---->
+    <string name="Name">Player:</string>
+
+</resources>
